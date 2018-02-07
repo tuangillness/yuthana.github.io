@@ -55,7 +55,7 @@
                     <section>
                         <h2>article section h2</h2>
                         <p>
-                        	<?
+                        	<?php
                         		echo "string";
                         	 ?>
                         </p>
