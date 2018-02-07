@@ -15,10 +15,10 @@
         <link rel="stylesheet" href="https://yuthana5634.github.io/yuthana.github.io/css/main.css">
 
         <script src="https://yuthana5634.github.io/yuthana.github.io/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
-        <link href="https://fonts.googleapis.com/css?family=Quicksand" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Barlow+Condensed" rel="stylesheet">
         <style type="text/css">
         	body {
-        		font-family: 'Quicksand', sans-serif;
+        		font-family: 'Barlow Condensed', sans-serif;
         	}
         </style>
     </head>
